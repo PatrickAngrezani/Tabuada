@@ -1,0 +1,50 @@
+body {
+  background: rgb(232, 194, 123);
+  font: normal 15pt arial;
+}
+
+header,
+footer {
+  color: black;
+  text-align: center;
+  margin: auto;
+  width: 200px;
+  background-color: rgba(255, 255, 255, 0.5);
+  border-radius: 8px;
+  box-shadow: 4px 4px rgba(0, 0, 0, 0.385);
+}
+
+section {
+  background: rgba(255, 255, 255, 0.426);
+  border-radius: 8px;
+  padding: 12px;
+  width: 500px;
+  margin: auto;
+  box-shadow: 5px 5px rgba(0, 0, 0, 0.379);
+}
+
+#ls {
+  font-size: 12px;
+}
+
+.campoTabuada {
+  margin-bottom: 14px;
+}
+
+.campoTabuada1 {
+  margin-left: 41px;
+  margin-bottom: 8px;
+}
+
+input.campoTabuada {
+  margin-bottom: 3px;
+}
+
+option{
+    text-align: center;
+}
+
+#option,
+#selTab {
+  width: 155px;
+}
